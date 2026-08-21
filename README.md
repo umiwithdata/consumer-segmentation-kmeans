@@ -161,30 +161,6 @@ The visualization shows clear separation among customer groups, indicating that 
 
 ---
 
-# Repository Structure
-
-```text
-consumer-segmentation-kmeans
-│
-├── data
-│   └── customer_data.csv
-│
-├── output
-│   ├── cluster_visualization.png
-│   ├── elbow_method.png
-│   ├── correlation_heatmap.png
-│   ├── cluster_profile.csv
-│   └── additional EDA visualizations
-│
-├── scripts
-│   └── segmentation.R
-│
-├── README.md
-└── .gitignore
-```
-
----
-
 # Key Findings
 
 - Four distinct consumer segments were identified.
